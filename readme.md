@@ -24,7 +24,7 @@ The scripts has some dependecies which have been clearly mentioned in the file r
 
 ## Installation steps
 
-Make sure u have a valid pyyhon installation in your system.
+Make sure u have a valid python installation in your system.
 them open your terminal in the directory where the script is located.
 
 Firstly install all the dependencies mentioned in the requiremnts.txt file using the command.
